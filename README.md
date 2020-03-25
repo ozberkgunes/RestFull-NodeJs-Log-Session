@@ -1,4 +1,4 @@
-# CrudNodeJs
+# RestFull-NodeJs-Log-Session
 Simple database operations and logging in nodejs.
 
 Basic auth control in nodejs.
